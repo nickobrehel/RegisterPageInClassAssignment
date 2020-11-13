@@ -7,5 +7,16 @@ nav {
 body{
     background-color: aquamarine;
     text-align: center;
+}
 
+label input {
+    text-align: center;
+    margin-left: 100;
+    margin-right: 100;
+}
+
+ul {
+    image-orientation: center;
+    border: 2px dotted purple;
+    
 }
